@@ -26,12 +26,14 @@ Antes de começar, certifique-se de ter o ambiente de desenvolvimento configurad
 2. Clonando o Repositório
 Clone este repositório para seu computador:
 
-git clone <URL_DO_REPOSITÓRIO>
+git clone https://github.com/Ivo-Aragao/filmesseriesapp.git
 cd <nome_do_repositório>
+
 3. Instalando as Dependências
 No diretório do projeto, instale as dependências necessárias:
 
 npm install
+
 4. Iniciando o App
 Para Android
 Para iniciar o aplicativo em um emulador Android:
